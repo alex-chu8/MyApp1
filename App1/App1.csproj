@@ -73,6 +73,7 @@
   <ItemGroup>
     <Content Include="test.txt" />
     <Content Include="Test2.txt" />
+    <Content Include="test5.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
