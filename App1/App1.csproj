@@ -73,6 +73,7 @@
   <ItemGroup>
     <Content Include="test.txt" />
     <Content Include="Test2.txt" />
+    <Content Include="test4.txt.txt" />
     <Content Include="text3.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
